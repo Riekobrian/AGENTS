@@ -1,0 +1,84 @@
+.git/
+  .COMMIT_EDITMSG.swp
+  COMMIT_EDITMSG
+  config
+  description
+  FETCH_HEAD
+  HEAD
+  hooks/
+    applypatch-msg.sample
+    commit-msg.sample
+    fsmonitor-watchman.sample
+    post-update.sample
+    pre-applypatch.sample
+    pre-commit.sample
+    pre-merge-commit.sample
+    pre-push.sample
+    pre-rebase.sample
+    pre-receive.sample
+    prepare-commit-msg.sample
+    push-to-checkout.sample
+    update.sample
+  index
+  info/
+    exclude
+  logs/
+    HEAD
+    refs/
+      heads/
+        main
+      remotes/
+        origin/
+          main
+  objects/
+    06/
+      ad877851f8845bfd32d8b67af7c11386196bd8
+    0c/
+      71a2195ec95f9fa53c14cf713dcf80fdf6671b
+    10/
+      82d68a1fa9030e8653a19330d03da409981a59
+    23/
+      f793a3623b2006c33b381c314d1a946cf8fcda
+    29/
+      8eeeb8b22c1a1373ea9dfb1f374b0dad7117f6
+    36/
+      3a17742cfad33ef8d794c0aacd883ec057a1cd
+    45/
+      534a2901f43a6fd541b85eef5e15ba73f2839c
+    69/
+      dddedb12655f3ec2c2a0cb8ef6e59c2f653029
+    72/
+      e46e857f711f3648ed6ee0a71903c6114cf3de
+    7f/
+      489899a4b64765ef704f0400e78f0d3c266cb3
+    8d/
+      dc367d07debc1cf19f44ecceed6d857ec55941
+    8f/
+      5bec82b364d174aab7a55090c2a1a299adbce0
+    93/
+      2b5e50d8194bc2359b2a63c2d5a55f6e535410
+    ca/
+      2408095328600424f561060d57384e7b693d98
+    d4/
+      348f83d86dc96ea21283666cc3e8b375b452f6
+    dd/
+      dc8e308f7d3bbeb17cbb9d9e715132f4150d5e
+    info/
+    pack/
+  ORIG_HEAD
+  refs/
+    heads/
+      main
+    remotes/
+      origin/
+        main
+    tags/
+.qodo/
+agents.ipynb
+assistant.jpeg
+AttentionSceneFinal.gif
+AutoregressionSchema.gif
+DecodingFinal.gif
+systemprompt.jpeg
+transformer.jpeg
+weather.jpeg
